@@ -1,6 +1,6 @@
 {
-  "name" : "acplo/losbase",
-  "description" : "Library with common classes for Los packages",
+  "name" : "acplo/acplobase",
+  "description" : "Library with common classes for acplo packages",
   "require" : {
     "doctrine/doctrine-orm-module" : "~0.8",
     "php" : ">=5.4",
@@ -15,7 +15,7 @@
     "email" : "abel@abellopes.eti.br",
     "homepage" : "http://www.abellopes.eti.br"
   } ],
-  "keywords" : [ "library", "los", "base", "common" ],
+  "keywords" : [ "library", "acplo", "base", "common" ],
   "autoload" : {
     "psr-0" : {
       "AcploBase\\" : "src/"
