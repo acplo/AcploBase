@@ -1,4 +1,4 @@
 #AcploBase
-[![Build Status](https://travis-ci.org/Lansoweb/AcploBase.svg?branch=master)](https://travis-ci.org/Lansoweb/AcploBase) [![Latest Stable Version](https://poser.pugx.org/acplo/AcploBase/v/stable.svg)](https://packagist.org/packages/acplo/acplobase) [![Total Downloads](https://poser.pugx.org/acplo/AcploBase/downloads.svg)](https://packagist.org/packages/acplo/acplobase) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Lansoweb/AcploBase/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Lansoweb/AcploBase/?branch=master) [![SensioLabs Insight](https://img.shields.io/sensiolabs/i/72de3f91-4d5b-4d34-a653-197975ce4c17.svg?style=flat)](https://insight.sensiolabs.com/projects/72de3f91-4d5b-4d34-a653-197975ce4c17) [![Dependency Status](https://www.versioneye.com/user/projects/54da829bc1bbbd5f820002d2/badge.svg?style=flat)](https://www.versioneye.com/user/projects/54da829bc1bbbd5f820002d2)
+
 
 Base module with some useful things for ZF2

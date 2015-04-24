@@ -1,4 +1,4 @@
-Copyright (c) 2015, acplo
+Copyright (c) 2015,  Abel Carlos Pereira Lopes
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
