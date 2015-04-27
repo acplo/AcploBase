@@ -92,7 +92,7 @@ abstract class AbstractCrudController extends AbstractActionController
      */
     public function getRouteName()
     {
-        return strtolower($this->getModuleName());
+        return strtolower(preg_replace('/(?<!^)([A-Z])/', '-\\1', $this->getModuleName()));
     }
 
     public function getEntityClass()
